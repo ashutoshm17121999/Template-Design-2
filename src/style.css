@@ -49,6 +49,7 @@ main{
 }
 #p3{
    margin-top: 2%;
+   margin-bottom: 3%;
 }
 #head2{
     margin-top: 20px;
@@ -64,4 +65,14 @@ main{
 }
 #p4{
     margin-left: 15px;
+}
+#p5{
+    text-align: right;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   margin-right: 25px;
+}
+footer{
+    background-color:  rgb(172, 170, 170);;
+    
 }
