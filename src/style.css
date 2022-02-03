@@ -11,7 +11,7 @@ nav{
 h1{  
     color:rgb(0, 0, 0);
     margin-left: 2%;
-    width: 100%;
+    /* width: 100%; */
     position: relative;
     font-size: 30px;
  } 
@@ -49,7 +49,7 @@ main{
 }
 #p3{
    margin-top: 2%;
-   margin-bottom: 3%;
+   margin-bottom: 30px;
 }
 #head2{
     margin-top: 20px;
@@ -68,8 +68,8 @@ main{
 }
 #p5{
     text-align: right;
-   padding-top: 20px;
-   padding-bottom: 20px;
+   padding-top: 32px;
+   padding-bottom: 32px;
    margin-right: 25px;
 }
 footer{
