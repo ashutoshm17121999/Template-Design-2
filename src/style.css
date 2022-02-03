@@ -1,6 +1,6 @@
 *{
     margin: 0%;
-    padding: 1px;
+    padding: 0px;
 }
 nav{
     background-color: rgb(197, 197, 197);
@@ -50,4 +50,18 @@ main{
 #p3{
    margin-top: 2%;
 }
-
+#head2{
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 24px;
+    color: rgb(65, 65, 104);
+   
+}
+.right{
+    background-color: rgb(208, 207, 207);
+    width: 35%;
+    
+}
+#p4{
+    margin-left: 15px;
+}
