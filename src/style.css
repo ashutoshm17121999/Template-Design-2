@@ -4,8 +4,8 @@
 }
 nav{
     background-color: rgb(197, 197, 197);
-    height: 50px;
-    padding-top: 15px;    
+    padding: 15px;
+    padding-top: 10px;    
     
 }
 h1{  
@@ -31,3 +31,23 @@ li{
 li:hover{
     background-color: green;
 }
+h1#head1{
+
+    color: rgb(65, 65, 104);
+    margin-left: 0px;
+}
+main{
+    display: flex;
+}
+.left{
+   margin-top:2%;
+   margin-left: 2.5%;
+   width: 65%;
+}
+#p2{
+   margin-top: 2%;
+}
+#p3{
+   margin-top: 2%;
+}
+
